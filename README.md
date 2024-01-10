@@ -1,1 +1,1 @@
-score of 0.5. improve later(simply impute missing values, not treat as new category entirely).
+improved score of 0.79 using tuned random forests. tune xgb to test for higher results.
